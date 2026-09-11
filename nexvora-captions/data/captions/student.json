@@ -1,0 +1,1698 @@
+[
+  {
+    "id": "student-0001",
+    "text": "Running on deadlines and instant noodles.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0002",
+    "text": "Attendance: physically present, mentally elsewhere.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0003",
+    "text": "Textbooks closed, dreams still open.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0004",
+    "text": "My GPA and my sleep schedule are both a mystery to me.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0005",
+    "text": "I've mastered the art of pulling an all-nighter and regretting it immediately.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0006",
+    "text": "My backpack weighs more than my actual motivation some days.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0007",
+    "text": "Currently surviving on caffeine and last-minute cramming.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0008",
+    "text": "Some of my best ideas happen during class, about anything but the class.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0009",
+    "text": "I've learned that group projects reveal who actually does the work.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0010",
+    "text": "My notes are a beautiful mix of important facts and complete nonsense.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0011",
+    "text": "Some exams test knowledge, others test how well you can guess.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0012",
+    "text": "I run on library snacks and quiet desperation during finals week.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0013",
+    "text": "My study playlist has somehow become my whole personality.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0014",
+    "text": "Some lectures are a fight between staying awake and taking notes.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0015",
+    "text": "I've learned that procrastination and panic make an unstoppable study duo.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0016",
+    "text": "My highlighter collection is more organized than my actual notes.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0017",
+    "text": "Some of my proudest moments are finishing assignments minutes before the deadline.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0018",
+    "text": "I run purely on adrenaline during exam season.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0019",
+    "text": "My to-do list has more items than hours in the day, every single week.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0020",
+    "text": "Some classes I attend for the material, others purely for the free snacks.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0021",
+    "text": "I've learned that a good study group can make or break a semester.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0022",
+    "text": "My relationship with deadlines is complicated at best.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0023",
+    "text": "Some of my best studying happens at 2am, for reasons I still don't understand.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0024",
+    "text": "I run on the hope that this semester will finally be the organized one.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0025",
+    "text": "My notes app has more chaos in it than my actual brain.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0026",
+    "text": "Some exams feel like trivia night gone horribly wrong.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0027",
+    "text": "I've learned that coffee is basically a required course material.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0028",
+    "text": "My study breaks somehow always turn into full hour-long distractions.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0029",
+    "text": "Some of my proudest achievements are surviving finals week with my sanity mostly intact.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0030",
+    "text": "I run on the delusion that I'll start studying earlier next semester.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0031",
+    "text": "It's okay if your grades don't define your entire worth as a person.",
+    "language": "en",
+    "category": "student",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0032",
+    "text": "You don't have to have your whole future figured out while still in school.",
+    "language": "en",
+    "category": "student",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0033",
+    "text": "Some of the best learning happens outside the classroom too.",
+    "language": "en",
+    "category": "student",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0034",
+    "text": "It's okay to ask for help when the coursework feels overwhelming.",
+    "language": "en",
+    "category": "student",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0035",
+    "text": "You're allowed to rest even during a busy semester.",
+    "language": "en",
+    "category": "student",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0036",
+    "text": "পরীক্ষার আগের রাতটাই সবচেয়ে দীর্ঘ মনে হয়।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0037",
+    "text": "ক্লাসে বসে অন্য জগতে হারিয়ে যাওয়াটাই সবচেয়ে সাধারণ ঘটনা।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0038",
+    "text": "পড়াশোনার চাপে রাত জাগাটাই এখন স্বাভাবিক।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0039",
+    "text": "নোট নেওয়ার চেয়ে বন্ধুদের সাথে গল্প করাই বেশি মজার।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0040",
+    "text": "পরীক্ষার হলে সময়ের সাথে দৌড় লাগানোটাই আসল চ্যালেঞ্জ।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0041",
+    "text": "আমার পড়ার টেবিলটাই আমার যুদ্ধক্ষেত্র।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0042",
+    "text": "শেষ মুহূর্তের পড়াশোনাতেই আমার আসল প্রতিভা।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0043",
+    "text": "গ্রুপ স্টাডি মানেই আড্ডা বেশি, পড়া কম।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0044",
+    "text": "পরীক্ষার ফলাফলের অপেক্ষাটাই সবচেয়ে উদ্বেগজনক।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0045",
+    "text": "ছাত্রজীবনের এই দিনগুলোই সবচেয়ে বেশি মিস করব।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0046",
+    "text": "I've learned that syllabus week lies to everyone about how manageable the semester will be.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0047",
+    "text": "Some of my best all-nighters were fueled entirely by panic and instant coffee.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0048",
+    "text": "My laptop has more open tabs than my brain can currently process.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0049",
+    "text": "I've mastered the skill of looking engaged while completely zoning out in lecture.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0050",
+    "text": "Some assignments feel impossible until 11:58pm, then suddenly finish themselves somehow.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0051",
+    "text": "My study group chat is 90% memes, 10% actual studying.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0052",
+    "text": "I've learned that the library at midnight has a very specific, very tired energy.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0053",
+    "text": "Some classes I show up for the professor, others purely out of guilt.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0054",
+    "text": "My backpack is basically a portable filing cabinet of chaos.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0055",
+    "text": "I've mastered the fine art of skimming a textbook chapter in ten minutes flat.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0056",
+    "text": "Some exams test what you know, others test how well you can bluff.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0057",
+    "text": "My relationship with sleep during finals week is nonexistent, at best.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0058",
+    "text": "I've learned that snacks are essential study material, non-negotiable.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0059",
+    "text": "Some of my proudest moments are finishing a paper I started the night before it's due.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0060",
+    "text": "My highlighter has seen things, mostly unnecessary things, but still.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0061",
+    "text": "পড়াশোনার ফাঁকে বন্ধুদের সাথে আড্ডাটাই সবচেয়ে প্রিয়।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0062",
+    "text": "নোটবুকের চেয়ে মনোযোগ বেশি ফোনে থাকে, স্বীকার করতে দ্বিধা নেই।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0063",
+    "text": "পরীক্ষার রেজাল্টের দিনটা সবচেয়ে বেশি টেনশনের।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0064",
+    "text": "I've learned that finals week is basically a personality test in disguise.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0065",
+    "text": "Some of my best notes are half useful information, half doodles in the margins.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0066",
+    "text": "My study snacks budget rivals my actual textbook budget most semesters.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0067",
+    "text": "I've mastered the art of nodding along in group projects while mentally elsewhere.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0068",
+    "text": "Some professors clearly forget that students have more than one class.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0069",
+    "text": "My productivity peaks exactly the night before every single deadline.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0070",
+    "text": "I've learned that the campus coffee shop is basically my second home during exams.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0071",
+    "text": "Some of my proudest achievements are surviving group projects with my sanity intact.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0072",
+    "text": "My study playlist has somehow become more consistent than my actual study habits.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0073",
+    "text": "I've mastered turning a five-page assignment into an all-nighter, reliably.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0074",
+    "text": "Some classes are genuinely fascinating, others I attend purely for attendance points.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0075",
+    "text": "My backpack could probably double as emergency camping gear at this point.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0076",
+    "text": "I've learned that the library's quiet floor is never actually that quiet during finals.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0077",
+    "text": "Some of my best study sessions happen entirely by accident, at 1am, for no reason.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0078",
+    "text": "My relationship with due dates is complicated, dramatic, and somehow always resolved just in time.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0079",
+    "text": "শেষ রাতের পড়াশোনাতেই সবচেয়ে বেশি মনে থাকে, অদ্ভুত হলেও সত্যি।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0080",
+    "text": "পরীক্ষার হলে ঘড়ির কাঁটার সাথে প্রতিযোগিতাটাই সবচেয়ে কঠিন।",
+    "language": "bn",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0081",
+    "text": "I've learned that syllabus week promises are just polite fiction everyone agrees to believe.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0082",
+    "text": "Some of my best cramming happens with snacks in one hand and panic in the other.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0083",
+    "text": "My notes app has more random screenshots than actual class notes at this point.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0084",
+    "text": "I've mastered the skill of finishing an assignment exactly at the deadline, every time.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0085",
+    "text": "Some lectures genuinely fly by, others feel like they're testing my will to live.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0086",
+    "text": "My study routine is 80% procrastination, 20% sudden, urgent productivity.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0087",
+    "text": "I've learned that finals week runs entirely on caffeine, stress, and shared suffering.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0088",
+    "text": "Some of my proudest moments are group projects that somehow came together at the last second.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0089",
+    "text": "My backpack has survived more chaos than most people's entire semester.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0090",
+    "text": "I've mastered the very specific skill of studying just enough to pass, not more.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0091",
+    "text": "Some classes I take notes in, others I just try to survive.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0092",
+    "text": "My relationship with the library is built entirely on desperation during finals season.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0093",
+    "text": "I've learned that a good study buddy makes even boring material bearable.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0094",
+    "text": "Some of my best breakthroughs happen the moment I finally stop procrastinating and just start.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0095",
+    "text": "My whole GPA story could be its own dramatic television series at this point.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0096",
+    "text": "I've learned that group chats during exam season are basically group therapy.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0097",
+    "text": "Some of my best study snacks turned into full meals by the end of the night.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0098",
+    "text": "My whole semester runs on a delicate balance of caffeine and denial.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0099",
+    "text": "I've mastered turning any assignment into a last-minute sprint, reliably.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "student-0100",
+    "text": "Some of my proudest wins are simply submitting assignments before the deadline hit.",
+    "language": "en",
+    "category": "student",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "student"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  }
+]

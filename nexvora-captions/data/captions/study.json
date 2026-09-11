@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "study-0001",
+    "text": "One more page, then actually one more page.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0002",
+    "text": "Coffee-powered, deadline-driven.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0003",
+    "text": "Notes messy, focus sharp.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0004",
+    "text": "I've learned that consistent studying beats last-minute cramming every time.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0005",
+    "text": "Some of my best focus happens with noise-cancelling headphones and zero distractions.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0006",
+    "text": "Study sessions taught me that discipline matters more than motivation.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0007",
+    "text": "I love the satisfaction of finally understanding a concept after hours of confusion.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0008",
+    "text": "Some of my clearest thinking happens with a clean desk and a fresh page.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0009",
+    "text": "Studying taught me that breaking material into small chunks makes it manageable.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0010",
+    "text": "I've learned that flashcards are underrated as a study tool.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0011",
+    "text": "Some of my best study sessions happen early morning, before distractions start.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0012",
+    "text": "I love the specific satisfaction of finishing a chapter and actually retaining it.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0013",
+    "text": "Studying taught me patience with concepts that don't click immediately.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0014",
+    "text": "Some of my proudest moments are understanding something I once found impossible.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0015",
+    "text": "I've learned that a study schedule, however loose, beats no plan at all.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0016",
+    "text": "Some of my best retention comes from teaching the material to someone else.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0017",
+    "text": "I love how a good study playlist can turn focus into a full flow state.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0018",
+    "text": "Studying taught me that repetition, not intensity, builds real understanding.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0019",
+    "text": "Some of my clearest progress happens in small, consistent daily sessions.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0020",
+    "text": "I've learned that active recall beats just rereading notes every time.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0021",
+    "text": "Some of my best breakthroughs happen after a short break, not during a long grind.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0022",
+    "text": "I love the quiet satisfaction of a completed study guide.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0023",
+    "text": "Studying taught me that understanding matters more than memorizing.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0024",
+    "text": "Some of my proudest study wins are the ones nobody else saw happen.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0025",
+    "text": "I've learned that a distraction-free space changes everything about how much you retain.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0026",
+    "text": "Some of my best focus happens with a timer set and a clear goal in mind.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0027",
+    "text": "I love finally connecting concepts that felt unrelated for weeks.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0028",
+    "text": "Studying taught me that consistency compounds, even on the days it feels pointless.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0029",
+    "text": "Some of my clearest confidence comes from actually knowing the material, not guessing.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0030",
+    "text": "I've learned that studying smarter matters more than studying longer.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0031",
+    "text": "It's okay if your study pace is slower than everyone else's.",
+    "language": "en",
+    "category": "study",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0032",
+    "text": "You don't need to study for hours straight to make real progress.",
+    "language": "en",
+    "category": "study",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0033",
+    "text": "Some of the best learning happens with breaks built in, not despite them.",
+    "language": "en",
+    "category": "study",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0034",
+    "text": "It's okay to ask for help understanding something instead of struggling silently.",
+    "language": "en",
+    "category": "study",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0035",
+    "text": "You're allowed to rest, even during an intense study season.",
+    "language": "en",
+    "category": "study",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0036",
+    "text": "আজকের পড়াটাই আগামীর ফলাফল।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0037",
+    "text": "একাগ্রতার সাথে পড়াশোনা করলে সাফল্য আসবেই।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0038",
+    "text": "ধাপে ধাপে পড়াশোনা করলে বিষয়টা সহজ হয়ে যায়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0039",
+    "text": "নিয়মিত পড়াশোনাই পরীক্ষায় ভালো ফলাফলের চাবিকাঠি।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0040",
+    "text": "মনোযোগ দিয়ে পড়লে কঠিন বিষয়ও সহজ মনে হয়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0041",
+    "text": "প্রতিদিনের ছোট প্রচেষ্টাই বড় সাফল্যের ভিত্তি।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0042",
+    "text": "পড়াশোনায় ধৈর্য ধরাটাই সবচেয়ে জরুরি।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0043",
+    "text": "নিজের গতিতে পড়াশোনা করাই সবচেয়ে কার্যকর।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0044",
+    "text": "পরীক্ষার প্রস্তুতিতে পরিকল্পনাই সবচেয়ে বড় শক্তি।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0045",
+    "text": "প্রতিদিন একটু একটু পড়লেই পাহাড়সম সিলেবাসও শেষ হয়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0046",
+    "text": "I've learned that a quiet space genuinely doubles how much I actually retain.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0047",
+    "text": "Some of my best study wins happened by simply showing up daily, even for twenty minutes.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0048",
+    "text": "Studying taught me that understanding the 'why' makes memorizing the 'what' much easier.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0049",
+    "text": "I love the specific relief of finally solving a problem that's been stuck for an hour.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0050",
+    "text": "Some of my clearest focus happens right after a short walk, not right after waking up.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0051",
+    "text": "I've learned that summarizing notes in my own words beats copying them exactly.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0052",
+    "text": "Some of my proudest study sessions were the ones where I actually taught myself something new.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0053",
+    "text": "I love how color-coded notes somehow make studying feel more manageable.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0054",
+    "text": "Studying taught me that consistency, even imperfect, beats sporadic bursts of intensity.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0055",
+    "text": "Some of my best retention happens when I quiz myself instead of just rereading.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0056",
+    "text": "I've learned that studying with a plan feels completely different from studying in a panic.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0057",
+    "text": "Some of my clearest progress shows up weeks later, not during the actual study session.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0058",
+    "text": "I love finally being able to explain a concept simply, after struggling with it for days.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0059",
+    "text": "Studying taught me patience with myself on the days concepts just don't click.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0060",
+    "text": "Some of my best study habits started as tiny, forgettable daily routines.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0061",
+    "text": "প্রতিদিন অল্প অল্প করে পড়লে সিলেবাস শেষ করা সহজ হয়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0062",
+    "text": "নিজের ভাষায় নোট তৈরি করলে মনে রাখা সহজ হয়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0063",
+    "text": "একটানা পড়ার চেয়ে বিরতি নিয়ে পড়াই বেশি কার্যকর।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0064",
+    "text": "I've learned that studying with a friend can either double productivity or destroy it entirely.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0065",
+    "text": "Some of my clearest breakthroughs happened after finally asking a question I was embarrassed to ask.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "long",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0066",
+    "text": "Studying taught me that understanding builds slowly, then suddenly all clicks into place.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0067",
+    "text": "I love the satisfaction of closing a textbook knowing I actually learned something.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0068",
+    "text": "Some of my best study sessions started with just committing to twenty focused minutes.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0069",
+    "text": "I've learned that a study environment matters almost as much as the material itself.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0070",
+    "text": "Some of my proudest moments are finally mastering a subject I once dreaded completely.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0071",
+    "text": "I love how practice problems reveal exactly what you don't understand yet.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0072",
+    "text": "Studying taught me that confidence in a subject comes from repetition, not luck.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0073",
+    "text": "Some of my clearest focus shows up once I put my phone in another room entirely.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0074",
+    "text": "I've learned that reviewing material within a day of learning it makes it stick longer.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0075",
+    "text": "Some of my best notes are the ones I rewrote in my own words, not just copied.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0076",
+    "text": "I love finally connecting a concept from one class to something in a completely different one.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0077",
+    "text": "Studying taught me that struggling with material is part of actually learning it.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0078",
+    "text": "Some of my proudest study wins are the quiet ones, understood alone, late at night.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0079",
+    "text": "কঠিন বিষয়ও ধৈর্য ধরে পড়লে সহজ হয়ে যায়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0080",
+    "text": "নিয়মিত অনুশীলনই যেকোনো বিষয়ে দক্ষতা এনে দেয়।",
+    "language": "bn",
+    "category": "study",
+    "mood": "driven",
+    "length": "short",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0081",
+    "text": "I've learned that studying in short, focused bursts beats one long unfocused session.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0082",
+    "text": "Some of my clearest understanding came from explaining a concept out loud to myself.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0083",
+    "text": "Studying taught me that mistakes on practice problems are actually the most useful part.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0084",
+    "text": "I love the quiet confidence that comes from genuinely knowing the material, not just hoping.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0085",
+    "text": "Some of my best study habits are the boring, consistent ones nobody notices.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0086",
+    "text": "I've learned that a clear goal for each session makes studying feel less overwhelming.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0087",
+    "text": "Some of my proudest academic wins happened after weeks of unglamorous, steady effort.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0088",
+    "text": "I love finally seeing a difficult subject start to make logical sense.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0089",
+    "text": "Studying taught me that patience with confusion is part of actually mastering something.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0090",
+    "text": "Some of my clearest focus happens the moment I stop multitasking entirely.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0091",
+    "text": "I've learned that reviewing old material regularly prevents the last-minute scramble later.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0092",
+    "text": "Some of my best study sessions end with more questions, and that's actually a good sign.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0093",
+    "text": "I love how a well-organized study guide can turn panic into actual confidence.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0094",
+    "text": "Studying taught me that real understanding takes longer than memorizing, but lasts far longer too.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0095",
+    "text": "Some of my proudest moments are simply finishing what I set out to study that day.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0096",
+    "text": "I've learned that celebrating small study wins keeps momentum going through a long semester.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0097",
+    "text": "Some of my clearest progress happens in the quiet stretch between confusion and clarity.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0098",
+    "text": "Studying taught me that showing up consistently beats occasional brilliant bursts of effort.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0099",
+    "text": "I love the moment a hard concept suddenly clicks after days of not making sense.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "study-0100",
+    "text": "Some of my proudest study sessions were the ones I almost skipped but didn't.",
+    "language": "en",
+    "category": "study",
+    "mood": "driven",
+    "length": "medium",
+    "tags": [
+      "study"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  }
+]

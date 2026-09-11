@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "rain-0001",
+    "text": "Rain has a way of slowing everything down.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0002",
+    "text": "Best thoughts arrive with the sound of rain.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0003",
+    "text": "Chai, window seat, rain — nothing else needed.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0004",
+    "text": "Rain looks better through an old window than a new one.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0005",
+    "text": "The smell of rain before it actually starts is my favorite kind of anticipation.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0006",
+    "text": "Some of my clearest thinking happens with rain against the window.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0007",
+    "text": "I've learned that rainy days give permission to slow down guilt-free.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0008",
+    "text": "There's a comfort in a house that smells like rain about to fall.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0009",
+    "text": "Rain sounds like an excuse to stay in and do absolutely nothing.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0010",
+    "text": "Some peace only shows up with the sound of rain on the roof.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0011",
+    "text": "I love how rain makes even a plain window feel like a movie scene.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0012",
+    "text": "There's a hush that settles over a street just after it rains.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0013",
+    "text": "Rain has taught me that some days really are just for staying inside.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0014",
+    "text": "Some of my favorite memories are rainy days with good company and no plans.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0015",
+    "text": "I love the specific quiet of a rainy afternoon with nowhere to be.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0016",
+    "text": "Rain makes the ordinary sound of a rooftop feel like music.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0017",
+    "text": "Some evenings are better with candles, blankets, and rain outside.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0018",
+    "text": "I've learned that rain has its own rhythm, and I've learned to let it just be.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0019",
+    "text": "There's a comfort in watching rain from somewhere warm and dry.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0020",
+    "text": "Rain sounds like an invitation to read, rest, or do nothing at all.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0021",
+    "text": "Some of my best naps happened purely because of rain on the window.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0022",
+    "text": "I love how a rainy day makes coffee taste even better somehow.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0023",
+    "text": "There's a particular calm only rain against glass seems to bring.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0024",
+    "text": "Rain reminds me that some days just ask for slower, softer choices.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0025",
+    "text": "Some of my favorite conversations happened while watching it rain.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0026",
+    "text": "I've learned that puddles are just the sky's way of leaving proof it visited.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0027",
+    "text": "There's a beauty in a garden freshly watered by rain, not a hose.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0028",
+    "text": "Rain makes a quiet evening feel intentional instead of empty.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0029",
+    "text": "Some of my clearest gratitude shows up on rainy, unremarkable days.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0030",
+    "text": "I love how rain gives a whole city a reason to slow its pace.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0031",
+    "text": "It's okay to let a rainy day be an excuse to do less.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0032",
+    "text": "You don't need sunshine every day to still feel okay.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0033",
+    "text": "Some of the best rest happens specifically because it's raining outside.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0034",
+    "text": "It's okay if rainy days make you a little more reflective than usual.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0035",
+    "text": "You're allowed to cancel plans just because it's raining and you'd rather stay in.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0036",
+    "text": "বৃষ্টি এলেই মনটা কেমন শান্ত হয়ে যায়।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0037",
+    "text": "বৃষ্টি ভেজা মাটির গন্ধটাই সবচেয়ে প্রিয়।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0038",
+    "text": "চায়ের কাপ হাতে বৃষ্টি দেখাটাই সবচেয়ে সুন্দর মুহূর্ত।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0039",
+    "text": "বৃষ্টির দিনে ঘরে বসে থাকাটাই সবচেয়ে ভালো লাগে।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0040",
+    "text": "বৃষ্টি এলে পুরনো স্মৃতিগুলো মনে পড়ে যায়।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0041",
+    "text": "বৃষ্টির শব্দই আমার প্রিয় ঘুম পাড়ানি গান।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0042",
+    "text": "বৃষ্টির দিনগুলো মনকে অন্যরকম প্রশান্তি দেয়।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0043",
+    "text": "বৃষ্টি থামলেই প্রকৃতি যেন নতুন করে জেগে ওঠে।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0044",
+    "text": "Rainy weather, cozy mood.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0045",
+    "text": "Grey sky weather, soft mood.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0046",
+    "text": "Stormy weather, reflective mood.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0047",
+    "text": "Drizzly weather, quiet mood.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0048",
+    "text": "Overcast weather, calm mood.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0049",
+    "text": "Rain: nature's way of saying slow down.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0050",
+    "text": "This storm: nature's way of saying slow down.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0051",
+    "text": "This drizzle: nature's way of saying slow down.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0052",
+    "text": "Today's weather: nature's way of saying slow down.",
+    "language": "en",
+    "category": "rain",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0053",
+    "text": "Rain outside. Best excuse to stay in all day.",
+    "language": "en",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0054",
+    "text": "This weather. Best excuse to stay in all day.",
+    "language": "en",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0055",
+    "text": "The forecast. Best excuse to stay in all day.",
+    "language": "en",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0056",
+    "text": "Today's downpour. Best excuse to stay in all day.",
+    "language": "en",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0057",
+    "text": "I've learned that a rainy window makes any book feel more atmospheric.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0058",
+    "text": "Some of my best rest days were simply rainy ones with nowhere to be.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0059",
+    "text": "Rain sounds like the world giving everyone permission to pause.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0060",
+    "text": "I love the specific comfort of thunder rumbling far in the distance.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0061",
+    "text": "Some evenings just need rain, a blanket, and a slow movie.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0062",
+    "text": "Rain has taught me that gray days can still be genuinely good ones.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0063",
+    "text": "I've learned that the smell after rain is one of nature's best free gifts.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0064",
+    "text": "Some of my clearest thoughts arrive during a quiet rainstorm.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0065",
+    "text": "Rain makes ordinary errands feel like a small, cozy adventure.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0066",
+    "text": "I love how rain gives every umbrella a reason to finally be useful.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0067",
+    "text": "Some rainy days ask for nothing but soup and a good playlist.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0068",
+    "text": "Rain has a way of making silence feel less empty and more peaceful.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0069",
+    "text": "I've learned that puddle-jumping never really gets old, no matter the age.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0070",
+    "text": "Some of my favorite childhood memories are simply rain against a tin roof.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0071",
+    "text": "Rain reminds me that even the sky needs to let things out sometimes.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0072",
+    "text": "বৃষ্টির দিনে গরম চা সবচেয়ে বেশি আরাম দেয়।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0073",
+    "text": "বৃষ্টি থামার পর আকাশের রংটাই আলাদা সুন্দর লাগে।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0074",
+    "text": "ছাতা ছাড়া বৃষ্টিতে ভেজার আনন্দই আলাদা।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0075",
+    "text": "I've learned that a rainy commute feels less annoying with the right playlist.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0076",
+    "text": "Some of my coziest evenings were built entirely around the sound of rain.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0077",
+    "text": "Rain has a way of making a small apartment feel like a warm little world.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0078",
+    "text": "I love how thunderstorms make the whole sky feel like it's putting on a show.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0079",
+    "text": "Some rainy afternoons just call for naps that weren't part of the plan.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0080",
+    "text": "Rain reminds me that not every day needs sunshine to still be a good one.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0081",
+    "text": "I've learned that watching rain from a porch is its own kind of meditation.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0082",
+    "text": "Some of my best writing happened during quiet, rainy afternoons indoors.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0083",
+    "text": "Rain makes the sound of tires on wet roads oddly soothing.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0084",
+    "text": "I love how a rainy day gives full permission to cancel every plan guilt-free.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0085",
+    "text": "Some storms are loud enough to drown out every other worry, briefly.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0086",
+    "text": "Rain has taught me patience, one slow, gray afternoon at a time.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0087",
+    "text": "I've learned that the first rain after a long dry spell smells like relief.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0088",
+    "text": "Some of my favorite memories are simply dancing in rain that caught us off guard.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0089",
+    "text": "Rain reminds me that even gray skies eventually clear, given enough time.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0090",
+    "text": "প্রথম বৃষ্টির গন্ধটাই সবচেয়ে মন ভালো করা।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0091",
+    "text": "বৃষ্টির দিনে বই পড়ার মজাই আলাদা।",
+    "language": "bn",
+    "category": "rain",
+    "mood": "calm",
+    "length": "short",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0092",
+    "text": "I've learned that a rainy Sunday is nature's official permission slip to rest.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0093",
+    "text": "Some of my calmest evenings happened purely because it wouldn't stop raining outside.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0094",
+    "text": "Rain has a way of making even chores feel softer, somehow.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0095",
+    "text": "I love how a rainy day slows an entire city down at once.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0096",
+    "text": "Some storms pass quickly and still manage to reset the whole afternoon.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0097",
+    "text": "Rain reminds me that quiet, gray days deserve just as much gratitude as sunny ones.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0098",
+    "text": "I've learned that rain on a tent is one of the most oddly comforting sounds there is.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0099",
+    "text": "Some of my best ideas came while listening to rain instead of music.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "rain-0100",
+    "text": "Rain has taught me that stillness and stormy weather can somehow coexist perfectly.",
+    "language": "en",
+    "category": "rain",
+    "mood": "calm",
+    "length": "medium",
+    "tags": [
+      "rain"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  }
+]

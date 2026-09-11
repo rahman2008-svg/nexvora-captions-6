@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "best-friend-0001",
+    "text": "You're the group chat and the group hug.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0002",
+    "text": "You're the chaos and the comfort.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0003",
+    "text": "You're the hype squad and the home.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0004",
+    "text": "You're the therapist and the partner in crime.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0005",
+    "text": "You're the bad influence and the best decision.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0006",
+    "text": "You're the comic relief and the emergency contact.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0007",
+    "text": "Best friend: unpaid therapist, full-time chaos partner.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0008",
+    "text": "Best friend: unpaid hype man, full-time comic relief.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0009",
+    "text": "Best friend: unpaid bodyguard, full-time backup dancer.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0010",
+    "text": "Best friend: unpaid stylist, full-time emotional support.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0011",
+    "text": "You knew me before I knew myself.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0012",
+    "text": "You knew me before I had it figured out.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0013",
+    "text": "You knew me before I became this version of me.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0014",
+    "text": "You knew me before the world got complicated.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0015",
+    "text": "You knew me before I learned to fake it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0016",
+    "text": "You knew me before any of this made sense.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0017",
+    "text": "You're my ride or die, mostly ride.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0018",
+    "text": "That's my ride or die, mostly ride.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0019",
+    "text": "This is my ride or die, mostly ride.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0020",
+    "text": "My whole ride or die, mostly ride.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0021",
+    "text": "Best friends: unfiltered honesty, unconditional love.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0022",
+    "text": "Best friends: matching chaos, mismatched schedules.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0023",
+    "text": "Best friends: one brain cell shared between us.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0024",
+    "text": "Best friends: inside jokes older than some friendships.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0025",
+    "text": "Best friends: distance-proof, drama-proof, time-proof.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0026",
+    "text": "You're proof that real friendship doesn't need daily contact.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0027",
+    "text": "You're proof that loyalty doesn't need proximity.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0028",
+    "text": "You're proof that a good friendship doesn't need perfect timing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0029",
+    "text": "You're proof that real love doesn't need romance.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0030",
+    "text": "Five years later, still my person.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0031",
+    "text": "Ten years later, still my person.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0032",
+    "text": "Fifteen years later, still my person.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0033",
+    "text": "Twenty years later, still my person.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0034",
+    "text": "Countless years later, still my person.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0035",
+    "text": "You're the only one who gets my weird sense of humor.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0036",
+    "text": "You're the only one who remembers every embarrassing story.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0037",
+    "text": "You're the only one who knows exactly what I mean without explaining.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0038",
+    "text": "You're the only one who calls me out and picks me up in the same breath.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0039",
+    "text": "You're the only one who makes ordinary days feel like an event.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0040",
+    "text": "You're the only one who still laughs at our oldest joke.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0041",
+    "text": "This friendship: my favorite kind of forever.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0042",
+    "text": "Us: my favorite kind of forever.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0043",
+    "text": "You and me: my favorite kind of forever.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0044",
+    "text": "This bond: my favorite kind of forever.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0045",
+    "text": "Thank you for never leaving even when I was hard to love.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0046",
+    "text": "Thank you for being the constant in every chapter.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0047",
+    "text": "Thank you for loving me at my worst and staying for my best.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0048",
+    "text": "Thank you for being my person through every version of me.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0049",
+    "text": "Thank you for showing up before I even had to ask.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0050",
+    "text": "You're the friend I never have to explain myself to.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0051",
+    "text": "We've survived every phase together, and I wouldn't trade a single one.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0052",
+    "text": "You're proof that some people really do become family by choice.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0053",
+    "text": "I don't know what I did to deserve a friend like you, but I'll take it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0054",
+    "text": "We've been through everything, and somehow we're still laughing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0055",
+    "text": "You're the friend who remembers the small stuff nobody else notices.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0056",
+    "text": "I can be my weirdest self around you, and you just match the energy.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0057",
+    "text": "You've seen every version of me and stuck around for all of them.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0058",
+    "text": "We don't need a reason to talk, we just pick up right where we left off.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0059",
+    "text": "You're the one call I make when nothing else makes sense.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0060",
+    "text": "Some friendships are easy, ours is one of the easiest things in my life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0061",
+    "text": "You're my favorite chaos and my safest place, somehow both.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0062",
+    "text": "I trust you with the parts of me I hide from everyone else.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0063",
+    "text": "We've built a whole language out of inside jokes over the years.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0064",
+    "text": "You show up exactly when it matters, every single time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0065",
+    "text": "I don't say it enough, but you make my life so much better.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0066",
+    "text": "We can go months without talking and still pick up like no time passed.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0067",
+    "text": "You're the friend who tells me the truth, even when it's hard to hear.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0068",
+    "text": "I've never laughed harder than I do with you, at nothing in particular.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0069",
+    "text": "You're the reason my hardest years still have good memories in them.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0070",
+    "text": "We're proof that the right friendship doesn't need constant maintenance.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0071",
+    "text": "You've celebrated my wins louder than I ever celebrate them myself.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0072",
+    "text": "I don't know where I'd be without you talking me off every ledge.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0073",
+    "text": "You're my built-in support system, no matter what life throws at us.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0074",
+    "text": "You make ordinary days feel like they're worth remembering.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0075",
+    "text": "I've never had to perform around you, you just get the real me.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0076",
+    "text": "You're proof that some people are just meant to be in your corner forever.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0077",
+    "text": "We've turned every hard year into a story we laugh about now.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0078",
+    "text": "You're the reason my search history looks insane.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0079",
+    "text": "We communicate mostly in memes and questionable decisions.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0080",
+    "text": "You're my favorite bad influence.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0081",
+    "text": "Our friendship runs on snacks, sarcasm, and shared chaos.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0082",
+    "text": "You're the friend who enables all my worst, most fun ideas.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0083",
+    "text": "We've never had a boring conversation in our lives.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0084",
+    "text": "You're proof that best friends really do share one brain cell.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0085",
+    "text": "Our group chat should honestly come with a warning label.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0086",
+    "text": "You're the reason I laugh at things nobody else finds funny.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0087",
+    "text": "We're the friendship equivalent of chaotic good.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0088",
+    "text": "তোর হাসি শুনলেই মনে হয় সব ঠিক আছে।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0089",
+    "text": "আমাদের বন্ধুত্বে কোনো শর্ত নেই, শুধু ভালোবাসা আছে।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0090",
+    "text": "তুই ছাড়া আমার জীবনের গল্পটা অসম্পূর্ণ।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0091",
+    "text": "তুই আমার পাগলামিগুলো সবচেয়ে ভালো বুঝিস।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0092",
+    "text": "আমাদের বন্ধুত্বটাই আমার সবচেয়ে বড় শক্তি।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0093",
+    "text": "তোকে ধন্যবাদ, সবসময় পাশে থাকার জন্য।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0094",
+    "text": "You've seen me at my worst, and you still didn't leave.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0095",
+    "text": "I've been a lot to handle, and you still didn't leave.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0096",
+    "text": "I disappeared for months and came back like nothing happened, and you still didn't leave.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0097",
+    "text": "I've cried, complained, and repeated myself a hundred times, and you still didn't leave.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0098",
+    "text": "I've been distant during my hardest years, and you still didn't leave.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0099",
+    "text": "Getting lost trying to find parking is my favorite unplanned tradition with you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0100",
+    "text": "Staying up way too late talking about nothing is my favorite unplanned tradition with you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0101",
+    "text": "Ordering the same thing every single time is my favorite unplanned tradition with you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0102",
+    "text": "Turning a quick coffee into a three-hour hangout is my favorite unplanned tradition with you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0103",
+    "text": "Recreating the same joke for the hundredth time is my favorite unplanned tradition with you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0104",
+    "text": "We roast each other and defend each other in the same breath. That's the whole friendship, honestly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "long",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0105",
+    "text": "We argue about nothing and forgive each other in minutes. That's the whole friendship, honestly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0106",
+    "text": "We finish each other's sentences and snacks. That's the whole friendship, honestly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0107",
+    "text": "We can't agree on plans but always agree on loyalty. That's the whole friendship, honestly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0108",
+    "text": "You taught me what real loyalty looks like.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0109",
+    "text": "This friendship taught me what real loyalty looks like.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0110",
+    "text": "Our whole history taught me what real loyalty looks like.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0111",
+    "text": "Watching you show up for me taught me what real loyalty looks like.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0112",
+    "text": "You showed up without me even asking, and I knew we'd be friends for life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0113",
+    "text": "You told me the truth I needed to hear, and I knew we'd be friends for life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0114",
+    "text": "You remembered something I mentioned once, months later, and I knew we'd be friends for life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0115",
+    "text": "You defended me without hesitation, and I knew we'd be friends for life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0116",
+    "text": "Same jokes. Still my favorite person, all these years later.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0117",
+    "text": "Same chaos. Still my favorite person, all these years later.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0118",
+    "text": "Same energy. Still my favorite person, all these years later.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0119",
+    "text": "Same trust. Still my favorite person, all these years later.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0120",
+    "text": "I've learned that a good best friend makes even the boring days feel worth remembering.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0121",
+    "text": "You're the friend who never needed an explanation for my weird moods.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0122",
+    "text": "We've built years of memories out of the most unremarkable Tuesdays.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0123",
+    "text": "I don't think I've ever felt truly alone since I met you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0124",
+    "text": "You're proof that some friendships just get better with time, not worse.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0125",
+    "text": "We've survived heartbreaks, moves, and questionable haircuts, together.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0126",
+    "text": "I trust your opinion more than I trust my own most days.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0127",
+    "text": "You're the friend who shows up with snacks and no judgment.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0128",
+    "text": "We've turned every hard year into an inside joke eventually.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0129",
+    "text": "I don't need a big circle, I just need you and a handful of others like you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0130",
+    "text": "You're the one person who's never once made me feel like too much.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0131",
+    "text": "We're proof that distance doesn't ruin the friendships that actually matter.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0132",
+    "text": "I've never had to perform happiness around you, you just know.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0133",
+    "text": "You've been my loudest cheerleader since day one.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0134",
+    "text": "We can sit in silence and it's never once felt awkward.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0135",
+    "text": "I've learned more about loyalty from you than from anyone else.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0136",
+    "text": "You're the friend who remembers my coffee order and my worst days equally well.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0137",
+    "text": "We've laughed until we couldn't breathe more times than I can count.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0138",
+    "text": "I don't know what version of me exists without you in the story.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0139",
+    "text": "You've never once made me feel like I had to earn your friendship.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0140",
+    "text": "তুই আমার এমন একজন বন্ধু যাকে সব বলা যায়।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0141",
+    "text": "কষ্টের সময়েও তুই পাশে ছিলি, এটাই আসল বন্ধুত্ব।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0142",
+    "text": "তোর সাথে চুপচাপ থাকতেও ভালো লাগে।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0143",
+    "text": "তোকে বন্ধু হিসেবে পেয়ে আমি সত্যিই ভাগ্যবান।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0144",
+    "text": "That nickname. Officially my longest running inside joke.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0145",
+    "text": "That one story. Officially my longest running inside joke.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0146",
+    "text": "Our whole friendship. Officially my longest running inside joke.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0147",
+    "text": "That memory. Officially my longest running inside joke.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0148",
+    "text": "This friendship says it all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0149",
+    "text": "Your loyalty says it all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0150",
+    "text": "That look we give each other says it all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0151",
+    "text": "Our whole dynamic says it all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0152",
+    "text": "Keeping you around. Best decision I never had to make twice.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0153",
+    "text": "Trusting you with everything. Best decision I never had to make twice.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0154",
+    "text": "Choosing this friendship. Best decision I never had to make twice.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0155",
+    "text": "Staying friends with you. Best decision I never had to make twice.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "playful",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "reels",
+      "story"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0156",
+    "text": "No explanation needed. You just get it, every time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0157",
+    "text": "Zero context required. You just get it, every time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0158",
+    "text": "I don't even have to finish the sentence. You just get it, every time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0159",
+    "text": "I've learned that a best friend is just family you happened to choose.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0160",
+    "text": "We've been through enough together to write our own very messy memoir.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0161",
+    "text": "You're the friend who makes the mundane feel like an adventure.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0162",
+    "text": "I don't take it for granted that you've stuck around this long.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0163",
+    "text": "We're proof that the right friendship doesn't need daily texts to stay strong.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0164",
+    "text": "You've talked me off more ledges than I'll ever fully admit to.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0165",
+    "text": "I trust you with the versions of me I don't show anyone else.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0166",
+    "text": "We've built a whole world of references nobody else understands.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0167",
+    "text": "You're my favorite person to just exist around, doing absolutely nothing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0168",
+    "text": "I don't know how I got this lucky with a friend like you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0169",
+    "text": "We can argue and still trust each other completely by the next day.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0170",
+    "text": "You've been the softest place to land during my hardest years.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0171",
+    "text": "I've learned that real friendship doesn't need grand gestures, just consistency.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0172",
+    "text": "You're the friend who remembers things I said in passing years ago.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0173",
+    "text": "We're the definition of found family, no explanation required.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0174",
+    "text": "তোর মতো বন্ধু জীবনে একবারই পাওয়া যায়।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0175",
+    "text": "You show up. Every time, without fail.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0176",
+    "text": "You make me laugh. Every time, without fail.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0177",
+    "text": "You know exactly what to say. Every time, without fail.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0178",
+    "text": "You defend me. Every time, without fail.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0179",
+    "text": "Distance is proof our friendship survives anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0180",
+    "text": "Time zones is proof our friendship survives anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0181",
+    "text": "Busy schedules is proof our friendship survives anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0182",
+    "text": "Years apart is proof our friendship survives anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0183",
+    "text": "Every life change is proof our friendship survives anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0184",
+    "text": "Through it all. I wouldn't trade this friendship for anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0185",
+    "text": "After everything. I wouldn't trade this friendship for anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0186",
+    "text": "Years later. I wouldn't trade this friendship for anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0187",
+    "text": "Still here. I wouldn't trade this friendship for anything.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "sincere",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0188",
+    "text": "You're the friend who never once made me feel judged for struggling.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0189",
+    "text": "We've made it through more chaos than most people see in a lifetime.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0190",
+    "text": "I don't need to explain my mood to you, you just adjust and stay.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0191",
+    "text": "You're proof that real friendship doesn't come with an expiration date.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0192",
+    "text": "We've built years of trust out of a thousand small, ordinary moments.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0193",
+    "text": "I've never had to wonder if you actually meant it, you always do.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0194",
+    "text": "You're the friend who shows up first and leaves last, every single time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0195",
+    "text": "We're proof that the best friendships don't need constant contact to stay strong.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0196",
+    "text": "I trust you more than I trust my own doubts some days.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0197",
+    "text": "You've been the one constant through every version of my life.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0198",
+    "text": "We can pick up a conversation from months ago like no time passed at all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0199",
+    "text": "I've learned that real loyalty looks a lot like you, honestly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0200",
+    "text": "You're the friend who remembers my birthday without a reminder.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0201",
+    "text": "We're the friendship that proves quality really does beat quantity.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0202",
+    "text": "তুই আমার জীবনের একটা অবিচ্ছেদ্য অংশ।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0203",
+    "text": "I've learned that the right friend makes even the hardest years bearable.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0204",
+    "text": "You're the friend who makes silence comfortable instead of awkward.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0205",
+    "text": "We've never needed a reason to laugh, just each other's company.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0206",
+    "text": "I don't think I've ever felt unseen when I'm around you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0207",
+    "text": "You're proof that some friendships are just meant to last a lifetime.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0208",
+    "text": "We've turned inside jokes into an entire shared language over the years.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0209",
+    "text": "I trust you with the messiest, most honest version of myself.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0210",
+    "text": "You're the friend who never once needed me to explain my tears.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0211",
+    "text": "We're proof that some bonds just don't fade, no matter how much time passes.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0212",
+    "text": "I've learned that real friendship shows up loudest during the quiet struggles.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0213",
+    "text": "You're the one person who's never once made me feel small.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0214",
+    "text": "We can go from serious to ridiculous in the same conversation, easily.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0215",
+    "text": "I don't know how you put up with me sometimes, but I'm grateful you do.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0216",
+    "text": "You're the friend who remembers the exact way I take my coffee.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0217",
+    "text": "We're proof that the best relationships aren't romantic, they're just real.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0218",
+    "text": "I've never had a friendship that felt this effortless before you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0219",
+    "text": "You're the one who calls just to check in, no reason needed.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0220",
+    "text": "We've survived enough chaos together to be genuinely unshakeable now.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0221",
+    "text": "I trust your judgment almost as much as I trust my own.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0222",
+    "text": "You're the friend who shows up with food and doesn't ask questions.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0223",
+    "text": "We're proof that real connection doesn't need perfect timing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0224",
+    "text": "I've learned more about unconditional support from you than anyone else.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0225",
+    "text": "You're the one constant I never had to question.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0226",
+    "text": "We can be completely ourselves, and it's never once felt risky.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0227",
+    "text": "I don't need anyone else's approval when I already have yours.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0228",
+    "text": "তোর সাথে থাকলে কখনো একা মনে হয় না।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0229",
+    "text": "তুই আমার জীবনের সবচেয়ে বিশ্বস্ত সঙ্গী।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0230",
+    "text": "তোর হাসিটা দেখলেই মন ভালো হয়ে যায়।",
+    "language": "bn",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0231",
+    "text": "I've learned that a friendship this easy is actually rare, and I don't take it for granted.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0232",
+    "text": "You're the friend who somehow always knows when to call.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0233",
+    "text": "We've never needed to compete, just support each other completely.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0234",
+    "text": "I don't think I could've survived some years without you in my corner.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0235",
+    "text": "You're proof that real friends don't need constant reassurance to stay close.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0236",
+    "text": "We've built a friendship strong enough to survive every hard season life threw at it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0237",
+    "text": "I trust you enough to be completely unfiltered, and you never once judged me for it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0238",
+    "text": "You're the friend who shows up exactly when it matters most.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0239",
+    "text": "We're proof that the best friendships require zero performance.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0240",
+    "text": "I've learned that real loyalty looks like showing up, especially when it's inconvenient.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0241",
+    "text": "You're the one person who makes bad days feel instantly more bearable.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0242",
+    "text": "We can talk about everything or nothing, and both feel exactly right.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0243",
+    "text": "I don't know many people who'd do for me what you have.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0244",
+    "text": "You're the friend who remembers everything I forget about myself.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0245",
+    "text": "We're proof that some friendships really do feel like coming home.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0246",
+    "text": "I've learned that a real best friend never makes you feel guilty for needing space.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0247",
+    "text": "You're the friend who never once turned a hard conversation into a bigger deal than it needed to be.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "long",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0248",
+    "text": "We've made it through more than most friendships ever have to and we're still standing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0249",
+    "text": "I don't know how to thank you enough for just being consistently, reliably you.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0250",
+    "text": "You're proof that the right friendship makes hard years feel a little softer.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0251",
+    "text": "We've built a bond strong enough that nothing has managed to break it yet.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0252",
+    "text": "I trust you with things I haven't told anyone else, and you've kept every one.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0253",
+    "text": "You're the friend who shows up with the right words, or just the right silence.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0254",
+    "text": "We're proof that real connection doesn't need to be complicated to be deep.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0255",
+    "text": "I've learned that friendship like ours doesn't come around often, so I hold onto it tightly.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0256",
+    "text": "You're the one who makes me feel like myself again on the days I forget who that is.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0257",
+    "text": "We can be apart for months and reconnect like no time passed at all.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0258",
+    "text": "I don't know many people as loyal as you, and I notice it every single day.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0259",
+    "text": "You're the friend who remembers the version of me I sometimes forget existed.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0260",
+    "text": "We're proof that some friendships are simply built to last a lifetime.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0261",
+    "text": "I've learned that the strongest friendships survive every awkward, uncertain phase of growing up.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0262",
+    "text": "You're the friend who's never once needed a big reason to check in on me.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0263",
+    "text": "We've earned every inside joke through years of showing up for each other.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0264",
+    "text": "I don't take it lightly that you've chosen to stay this long.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0265",
+    "text": "You're proof that real friends make the ordinary moments the ones worth remembering.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0266",
+    "text": "We've built something that distance, time, and life changes couldn't touch.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0267",
+    "text": "I trust you enough to be a mess around, and you've never once flinched.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0268",
+    "text": "You're the friend who somehow always says the exact thing I needed to hear.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0269",
+    "text": "We're proof that friendship, done right, doesn't need much explaining.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0270",
+    "text": "I've learned that having one real friend like you outweighs having a hundred acquaintances.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0271",
+    "text": "I've learned that a good best friend feels like an extension of home, wherever you both are.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0272",
+    "text": "You're the friend who somehow remembers my worst days and my best ones with the same care.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0273",
+    "text": "We've earned this friendship the long way, through years, not just good timing.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0274",
+    "text": "I don't know many people who'd show up the way you consistently have.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0275",
+    "text": "You're proof that some friendships genuinely improve with every passing year.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0276",
+    "text": "We've built trust out of a thousand small moments nobody else ever saw.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0277",
+    "text": "I trust you completely, and that's rarer than people realize.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0278",
+    "text": "You're the friend who somehow makes the worst days feel a little more survivable.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0279",
+    "text": "We're proof that real friendship doesn't need drama to feel meaningful.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0280",
+    "text": "I've learned that having you in my corner has made every hard year easier.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0281",
+    "text": "You're the one friend I never have to wonder about.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "short",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0282",
+    "text": "We can be honest, messy, and completely ourselves, and it never once feels risky.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0283",
+    "text": "I've learned that not every friend gets your whole story, but the real ones earn it over time.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0284",
+    "text": "You're the friend I measure every other friendship against, fairly or not.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0285",
+    "text": "We've made it through enough that I genuinely can't imagine my life without you in it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0286",
+    "text": "I don't know how to explain our friendship to people who weren't there for all of it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0287",
+    "text": "You're proof that real friends don't need a reason to remind you that you matter.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0288",
+    "text": "We've built a friendship that somehow gets stronger with every hard year we survive.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0289",
+    "text": "I trust you with my whole story, not just the highlight reel.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0290",
+    "text": "You're the friend who somehow always knows exactly what I need before I say it.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0291",
+    "text": "We're proof that the deepest friendships rarely need grand gestures to feel real.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0292",
+    "text": "I've learned that having you as a friend has made me a better person too.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0293",
+    "text": "You're the one person I know will still be there in every future chapter.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0294",
+    "text": "We can handle anything, because we've already survived nearly everything, together.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0295",
+    "text": "I've learned that a real best friend makes distance feel like a minor inconvenience, not a barrier.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0296",
+    "text": "You're the friend I trust with the parts of my story still being written.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0297",
+    "text": "We've made it through enough to know this friendship isn't going anywhere.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0298",
+    "text": "I don't know many people who show up as consistently and honestly as you do.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0299",
+    "text": "You're proof that some friendships are simply worth protecting, no matter what changes around them.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "best-friend-0300",
+    "text": "We can handle silence, distance, and hard seasons, and still come back exactly the same.",
+    "language": "en",
+    "category": "best-friend",
+    "mood": "warm",
+    "length": "medium",
+    "tags": [
+      "best-friend"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  }
+]

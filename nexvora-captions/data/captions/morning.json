@@ -1,0 +1,1621 @@
+[
+  {
+    "id": "morning-0001",
+    "text": "New morning, same stubborn hope.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0002",
+    "text": "Coffee first, opinions later.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0003",
+    "text": "Early light, quiet mind, good start.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0004",
+    "text": "Some mornings just ask for stillness before anything else.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0005",
+    "text": "I've learned that a slow morning sets the tone for the whole day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0006",
+    "text": "There's a particular peace in a house before anyone else wakes up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0007",
+    "text": "Morning light forgives everything messy about last night.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0008",
+    "text": "Some of my clearest thinking happens before the world fully wakes up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0009",
+    "text": "I love the quiet ritual of coffee before the day actually starts.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0010",
+    "text": "Mornings taught me that starting slow doesn't mean starting behind.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0011",
+    "text": "Some of my favorite moments are the first few minutes of a new day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0012",
+    "text": "I've learned that a made bed can change the whole tone of the morning.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0013",
+    "text": "There's a hope built into every sunrise, whether you notice it or not.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0014",
+    "text": "Some mornings just need silence, sunlight, and nowhere to rush to.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0015",
+    "text": "I love how morning air feels different from every other time of day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0016",
+    "text": "Mornings remind me that today hasn't decided what it's going to be yet.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0017",
+    "text": "Some of my best decisions were made with a clear morning mind.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0018",
+    "text": "I've learned that a good morning routine is really just self-respect on a schedule.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0019",
+    "text": "There's a stillness in early morning that the rest of the day rarely offers.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0020",
+    "text": "Some mornings deserve to be savored slowly, not rushed through.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0021",
+    "text": "I love the sound of a quiet kitchen before anyone else is up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0022",
+    "text": "Mornings taught me that small rituals build a steadier whole life.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0023",
+    "text": "Some of my clearest gratitude shows up before the day gets busy.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0024",
+    "text": "I've learned that sunlight through curtains is a genuinely good way to wake up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0025",
+    "text": "There's a hope in every sunrise that I try not to take for granted.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0026",
+    "text": "Some mornings just need coffee and quiet before anything else happens.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0027",
+    "text": "I love how mornings feel like a fresh page, even on hard weeks.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0028",
+    "text": "Mornings remind me that today is still unwritten.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0029",
+    "text": "Some of my favorite traditions are just quiet morning routines.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0030",
+    "text": "I've learned that starting the day slow is still starting it well.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0031",
+    "text": "It's okay if your mornings are slow and unremarkable.",
+    "language": "en",
+    "category": "morning",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0032",
+    "text": "You don't need to be productive the second you wake up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0033",
+    "text": "Some of the best mornings are the quiet ones with no big plans.",
+    "language": "en",
+    "category": "morning",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0034",
+    "text": "It's okay to protect your morning routine fiercely.",
+    "language": "en",
+    "category": "morning",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0035",
+    "text": "You're allowed to start the day slowly, even when the world rushes.",
+    "language": "en",
+    "category": "morning",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0036",
+    "text": "সকালের আলোয় নতুন করে শুরু করি সব।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0037",
+    "text": "সকালের প্রথম চা-টাই সবচেয়ে প্রিয়।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0038",
+    "text": "শান্ত সকালগুলোই সবচেয়ে বেশি ভালো লাগে।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0039",
+    "text": "সূর্যোদয় দেখাটাই আমার প্রিয় অভ্যাস।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0040",
+    "text": "সকালে ঘুম থেকে উঠেই কৃতজ্ঞতা প্রকাশ করি।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0041",
+    "text": "নতুন সকাল মানেই নতুন সম্ভাবনা।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0042",
+    "text": "সকালের নিস্তব্ধতাই সবচেয়ে বেশি প্রশান্তি দেয়।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0043",
+    "text": "প্রতিটা সকালই একটা নতুন সুযোগ নিয়ে আসে।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0044",
+    "text": "সকালে হাঁটতে বের হওয়াটাই দিনের সেরা মুহূর্ত।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0045",
+    "text": "সকালের রোদ গায়ে মেখে দিন শুরু করাটাই আনন্দের।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0046",
+    "text": "I've learned that the first hour of the day sets a quiet tone for the rest of it.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0047",
+    "text": "Some of my clearest gratitude shows up with the very first cup of coffee.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0048",
+    "text": "Mornings taught me that slow starts often lead to steadier days.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0049",
+    "text": "I love the specific quiet of a house right as the sun comes up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0050",
+    "text": "Some of my best ideas arrive before anyone else is even awake.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0051",
+    "text": "Morning light has a way of making yesterday's worries feel smaller.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0052",
+    "text": "I've learned that a good morning doesn't need to be exciting, just peaceful.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0053",
+    "text": "Some of my favorite rituals are just five quiet minutes before the day begins.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0054",
+    "text": "Mornings remind me that every day starts with a small, quiet chance to reset.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0055",
+    "text": "I love how birds sound louder before the rest of the world wakes up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0056",
+    "text": "Some of my best decisions are made with a fresh, unhurried morning mind.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0057",
+    "text": "Morning taught me that stillness before noise is a gift worth protecting.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0058",
+    "text": "Some of my clearest thinking happens in the first sip of coffee.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0059",
+    "text": "I've learned that mornings are kinder when you don't rush straight into chaos.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0060",
+    "text": "Some mornings just need sunlight, silence, and a slow cup of tea.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0061",
+    "text": "সকালের শান্ত মুহূর্তগুলোই দিনের সবচেয়ে সুন্দর অংশ।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0062",
+    "text": "সকালে নিজের জন্য একটু সময় বের করাটাই জরুরি।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0063",
+    "text": "সকালের বাতাসে একটা আলাদা সতেজতা থাকে।",
+    "language": "bn",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "short",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0064",
+    "text": "I've learned that a stretch before getting out of bed changes the whole morning.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0065",
+    "text": "Some of my favorite habits are just quiet routines I do before checking my phone.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0066",
+    "text": "Mornings taught me that presence matters more than productivity in the first hour.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0067",
+    "text": "I love how the light at sunrise is softer than at any other time of day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0068",
+    "text": "Some of my best mornings involve nothing but silence and a good playlist.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0069",
+    "text": "Morning walks clear more mental clutter than any to-do list could.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0070",
+    "text": "I've learned that starting the day with gratitude changes how the rest of it feels.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0071",
+    "text": "Some of my clearest intentions are set during the first quiet minutes of the day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0072",
+    "text": "Mornings remind me that a fresh start is available every single day, without exception.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0073",
+    "text": "I love the ritual of making coffee slowly instead of rushing through it.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0074",
+    "text": "Some of my best mornings had no alarm at all, just natural light and rest.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0075",
+    "text": "Morning taught me that how you start the day quietly shapes how you carry the rest of it.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0076",
+    "text": "Some of my favorite memories are simply watching the sunrise with someone I love.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0077",
+    "text": "I've learned that mornings are proof the world offers new beginnings often.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0078",
+    "text": "Some mornings just deserve to be unhurried, sacred almost, before anything else begins.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0079",
+    "text": "I've learned that the quietest hour of the day is usually the most honest one.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0080",
+    "text": "Some of my best mornings simply had time to sit and think before rushing anywhere.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0081",
+    "text": "Mornings taught me that even a small ritual can anchor a whole busy day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0082",
+    "text": "I love how the first light through the window feels like a quiet permission to begin.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0083",
+    "text": "Some of my clearest gratitude shows up before the noise of the day sets in.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0084",
+    "text": "Morning taught me that peace is easiest to find before everyone else wakes up.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0085",
+    "text": "Some of my favorite memories are unhurried breakfasts with nowhere to rush to.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0086",
+    "text": "I've learned that a slow morning is still a productive one, just in a quieter way.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0087",
+    "text": "Some mornings just ask for stillness, and I'm learning to actually give it that.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0088",
+    "text": "Morning light has a way of making even ordinary days feel like a fresh start.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0089",
+    "text": "I love the specific calm of sipping coffee before checking a single notification.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0090",
+    "text": "Some of my best intentions for the day are set in the first ten quiet minutes.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0091",
+    "text": "Mornings remind me that today is a page that hasn't been written yet.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0092",
+    "text": "I've learned that starting slow doesn't mean falling behind, it means starting well.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0093",
+    "text": "Some of my coziest memories are simply lazy Sunday mornings with nowhere to be.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0094",
+    "text": "Morning taught me that gratitude said early tends to color the whole day that follows.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0095",
+    "text": "Some of my favorite rituals are just five minutes of quiet before the world gets loud.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0096",
+    "text": "I love how mornings offer a reset button that resets literally every single day.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0097",
+    "text": "I've learned that a genuinely quiet morning is one of the simplest luxuries available.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0098",
+    "text": "Some of my best days started with nothing more than sunlight and a slow breakfast.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0099",
+    "text": "Mornings remind me that hope doesn't need a reason, just a new day to show up in.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "morning-0100",
+    "text": "I love how the world feels a little softer in the very first hour of light.",
+    "language": "en",
+    "category": "morning",
+    "mood": "hopeful",
+    "length": "medium",
+    "tags": [
+      "morning"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  }
+]

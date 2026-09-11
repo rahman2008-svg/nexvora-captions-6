@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "photography-0001",
+    "text": "Some frames hold entire feelings.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0002",
+    "text": "Chasing light more than likes.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0003",
+    "text": "Still learning to see before I shoot.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0004",
+    "text": "I've learned that the best photos capture feeling, not just detail.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0005",
+    "text": "Some of my favorite shots were never planned at all.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0006",
+    "text": "Photography taught me to notice light differently, in everything now.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0007",
+    "text": "I love how a photo can hold a moment long after it's actually passed.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0008",
+    "text": "Some of my best pictures happened because I forgot to overthink the shot.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0009",
+    "text": "I've learned that the story behind a photo matters more than its perfection.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0010",
+    "text": "Some frames are worth keeping just for the memory, not the technical quality.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0011",
+    "text": "Photography taught me patience, waiting for the right light to actually show up.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0012",
+    "text": "I love the specific joy of capturing someone laughing, unposed and real.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0013",
+    "text": "Some of my favorite photos are blurry, and I still wouldn't trade them.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0014",
+    "text": "I've learned that composition matters, but emotion matters more.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0015",
+    "text": "Some of my proudest shots happened in the worst lighting, somehow still working.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0016",
+    "text": "Photography taught me to slow down and actually look before clicking.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0017",
+    "text": "I love how a single photo can bring back a whole afternoon, instantly.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0018",
+    "text": "Some of my best pictures are the candid ones nobody knew were being taken.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0019",
+    "text": "I've learned that editing can't fix a photo with no real feeling behind it.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0020",
+    "text": "Some frames capture more than a moment, they capture a whole mood.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0021",
+    "text": "Photography taught me that golden hour really is worth chasing every time.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0022",
+    "text": "I love the process of finding a shot, not just taking one.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0023",
+    "text": "Some of my favorite photos have nothing technically perfect about them.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0024",
+    "text": "I've learned that a good photographer notices details everyone else misses.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0025",
+    "text": "Some of my best shots happened by accident, in between the posed ones.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0026",
+    "text": "Photography taught me to appreciate shadows as much as light.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0027",
+    "text": "I love how a photo taken years ago can still make you feel exactly what you felt then.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0028",
+    "text": "Some of my proudest work is the photos nobody else thought were worth taking.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0029",
+    "text": "I've learned that the best camera is simply the one you actually have with you.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0030",
+    "text": "Some frames are worth a thousand words, and some are worth a whole memory.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0031",
+    "text": "It's okay if your photos are for memory, not for anyone else's approval.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0032",
+    "text": "You don't need expensive gear to take a genuinely meaningful photo.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0033",
+    "text": "Some of the best photography happens when you stop trying so hard to get it perfect.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0034",
+    "text": "It's okay to take photos just for yourself, not for an audience.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0035",
+    "text": "You're allowed to love a blurry photo simply because of what it captures.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0036",
+    "text": "প্রতিটা ছবির পেছনে একটা গল্প থাকে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0037",
+    "text": "ভালো আলোর জন্য অপেক্ষা করাটাই ফটোগ্রাফির আসল মজা।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0038",
+    "text": "একটা ছবি হাজারো কথা বলে দেয়।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0039",
+    "text": "প্রাকৃতিক মুহূর্তগুলোই ছবিতে সবচেয়ে সুন্দর লাগে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0040",
+    "text": "ফটোগ্রাফি শিখিয়েছে ধৈর্য ধরে দেখতে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0041",
+    "text": "সেরা ছবিগুলো প্রায়ই অপরিকল্পিতভাবে তোলা হয়।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0042",
+    "text": "আলো আর ছায়ার খেলাই ছবির আসল সৌন্দর্য।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0043",
+    "text": "স্মৃতি ধরে রাখার সবচেয়ে সুন্দর মাধ্যম ফটোগ্রাফি।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0044",
+    "text": "একটা ভালো ছবি সেই মুহূর্তের অনুভূতি ফিরিয়ে আনে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0045",
+    "text": "I've learned that the best photographers notice light before they notice the subject.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0046",
+    "text": "Some of my favorite shots happened while I was aiming for something else entirely.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0047",
+    "text": "Photography taught me that imperfection often makes a photo more honest.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0048",
+    "text": "I love the anticipation of waiting for exactly the right moment to click the shutter.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0049",
+    "text": "Some of my proudest photos capture emotion over technical perfection, every time.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0050",
+    "text": "I've learned that reviewing old photos teaches you more than any tutorial could.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0051",
+    "text": "Some of my best shots are the ones taken quickly, before the moment could pass.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0052",
+    "text": "Photography taught me to trust my eye more than any preset filter.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0053",
+    "text": "I love how black and white photos somehow make emotions feel more raw.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0054",
+    "text": "Some of my favorite frames are simple, plain backgrounds with real emotion in front.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0055",
+    "text": "I've learned that natural light beats almost any artificial setup.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0056",
+    "text": "Some of my proudest work happened with nothing but a phone camera and good timing.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0057",
+    "text": "Photography taught me patience, waiting for clouds to move, for light to shift.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0058",
+    "text": "I love the challenge of capturing motion without it looking blurry.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0059",
+    "text": "Some of my best photos are the ones where the subject didn't know they were being captured.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0060",
+    "text": "ছবির মধ্যে লুকিয়ে থাকা গল্পটাই সবচেয়ে গুরুত্বপূর্ণ।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0061",
+    "text": "প্রতিটা ছবিই একটা মুহূর্তকে চিরস্থায়ী করে রাখে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0062",
+    "text": "সাদাকালো ছবিতে অনুভূতি আরও গভীর মনে হয়।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0063",
+    "text": "I've learned that a photo taken in a hurry can still capture something completely real.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0064",
+    "text": "Some of my favorite pictures are the ones I almost deleted but kept anyway.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0065",
+    "text": "Photography taught me that the same scene looks completely different an hour later.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0066",
+    "text": "I love how a photograph can make you remember a smell or a sound, not just a sight.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0067",
+    "text": "Some of my proudest shots came from simply being patient enough to wait.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0068",
+    "text": "I've learned that candid photos usually beat posed ones for genuine emotion.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0069",
+    "text": "Some of my best memories exist mostly because a photo reminded me they happened.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0070",
+    "text": "Photography taught me to look for stories, not just scenery.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0071",
+    "text": "I love the quiet satisfaction of finally nailing a shot after several failed attempts.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0072",
+    "text": "Some of my favorite frames capture the in-between moments, not the main event.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0073",
+    "text": "I've learned that light changes everything, sometimes minute to minute.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0074",
+    "text": "Some of my proudest work happened without any editing at all.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0075",
+    "text": "Photography taught me to see beauty in ordinary, overlooked places.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0076",
+    "text": "I love how every photographer sees the exact same scene completely differently.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0077",
+    "text": "Some of my best shots are the ones that make me feel something every time I see them again.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0078",
+    "text": "সবচেয়ে ভালো ছবিগুলো প্রায়ই অপ্রত্যাশিতভাবে ধরা পড়ে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0079",
+    "text": "প্রকৃতির আলোই সবচেয়ে সুন্দর ছবি তৈরি করে।",
+    "language": "bn",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "short",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "story",
+      "bio"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0080",
+    "text": "I've learned that the best photos often happen when you stop posing and just live.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0081",
+    "text": "Some of my favorite shots are the accidental ones between the planned frames.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0082",
+    "text": "Photography taught me to slow down long enough to actually notice the moment.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0083",
+    "text": "I love how a single photo can hold an entire feeling that words can't quite capture.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0084",
+    "text": "Some of my proudest work happened with the simplest setup, nothing fancy required.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0085",
+    "text": "I've learned that lighting matters more than almost any camera setting.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0086",
+    "text": "Some of my best memories are photos I almost didn't bother taking.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0087",
+    "text": "Photography taught me patience with imperfect shots that still meant something.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0088",
+    "text": "I love the process of noticing details most people simply walk right past.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0089",
+    "text": "Some of my favorite frames capture people exactly as they are, unfiltered and real.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0090",
+    "text": "I've learned that a meaningful photo doesn't need to be technically flawless.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0091",
+    "text": "Some of my proudest shots happened purely by chance, in the right place at the right time.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0092",
+    "text": "Photography taught me to trust instinct over overthinking the perfect composition.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0093",
+    "text": "I love how photos taken years apart can still feel connected by the same light.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0094",
+    "text": "Some of my best pictures are the ones that make someone else feel something too.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0095",
+    "text": "I've learned that the story a photo tells matters more than how many likes it gets.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0096",
+    "text": "Some of my favorite shots happened simply because I decided to bring the camera along.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0097",
+    "text": "Photography taught me that beauty often hides in ordinary, unremarkable moments.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0098",
+    "text": "I love the challenge of capturing a feeling instead of just a scene.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0099",
+    "text": "Some of my proudest photography moments are the ones nobody else noticed but me.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "photography-0100",
+    "text": "I've learned that every photo, even the imperfect ones, tells a true story of that moment.",
+    "language": "en",
+    "category": "photography",
+    "mood": "reflective",
+    "length": "medium",
+    "tags": [
+      "photography"
+    ],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "status": "published"
+  }
+]
